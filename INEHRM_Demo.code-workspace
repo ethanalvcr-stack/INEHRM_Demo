@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "INEHRM_Demo",
+			"path": "."
+		},
+		{
+			"name": "images",
+			"path": "../Sistema_OPD_Integral/images"
+		}
+	],
+	"settings": {}
+}
